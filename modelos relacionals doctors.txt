@@ -1,0 +1,9 @@
+http://www.databaseanswers.org/data_models/index.htm
+
+http://www.databaseanswers.org/data_models/doctors_practice/index.htm
+
+http://www.databaseanswers.org/data_models/patients_visits_to_the_doctor/index.htm
+
+http://www.databaseanswers.org/data_models/POC_Doctors_and_Patients_platform_2020/index.htm
+
+http://www.databaseanswers.org/data_models/doctors_practice/index.htm
